@@ -1,5 +1,5 @@
 # Basic-Python-Libraries
-NumPy and Pandas Practice 
+Practice of NumPy and Pandas 
 
 ### Numpy
 NumPy is an open-source numerical Python library. NumPy contains a multi-dimensional array and matrix data structures. It can be utilised to perform a number of mathematical operations on arrays such as trigonometric, statistical, and algebraic routines.
@@ -15,3 +15,5 @@ Pandas is a Python package that provides fast, flexible, and expressive data str
 Install pandas <br>
 <br>
 ``` pip install pandas ```
+
+
